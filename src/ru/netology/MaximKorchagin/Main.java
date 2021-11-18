@@ -12,7 +12,8 @@ public class Main {
         Random random = new Random();
         for (int i = 0; i < SIZE; i++) {
             for (int j = 0; i < SIZE; j++) {
-                
+                System.out.println("очко блять");
+                System.out.println("сука");
             }
         }
     }
